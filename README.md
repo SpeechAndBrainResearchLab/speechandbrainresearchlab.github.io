@@ -1,7 +1,7 @@
 
 # SpeechAndBrainResearchLab's Website
 
-Visit **[website url](#)** 🚀
+Visit **[speechandbrainresearchlab.github.io](https://speechandbrainresearchlab.github.io)** 🚀
 
 _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
 
