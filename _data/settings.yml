@@ -39,11 +39,11 @@ menu_settings:
       - title: Blog
         url: /blog
         icon: ni-books text-primary
-    - title: 'Features'
+    - title: 'Research'
       url: '/features'     
     - title: Pricing
       url: /pricing        
-    - title: 'Blog'
+    - title: 'Members'
       submenu_items:
       - title: Blog
         url: /blog
@@ -57,8 +57,10 @@ menu_settings:
       - title: List Example
         url: /blog-list-example
         icon: ni-bullet-list-67 text-default    
-    - title: 'About'
+    - title: 'Publications'
       url: '/about'
+#    - title: 'About'
+#      url: '/about'
     - title: 'Contact'
       url: '/contact'
 
