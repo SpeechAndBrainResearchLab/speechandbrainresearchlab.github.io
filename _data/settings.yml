@@ -40,7 +40,7 @@ menu_settings:
         url: /blog
         icon: ni-books text-primary
     - title: 'Research'
-      url: '/features'     
+      url: '/blog-list-example'
     # - title: Pricing
       # url: /pricing        
     - title: 'Members'
