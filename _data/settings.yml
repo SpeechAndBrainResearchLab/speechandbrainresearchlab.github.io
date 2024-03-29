@@ -41,8 +41,8 @@ menu_settings:
         icon: ni-books text-primary
     - title: 'Research'
       url: '/features'     
-    - title: Pricing
-      url: /pricing        
+    # - title: Pricing
+      # url: /pricing        
     - title: 'Members'
       submenu_items:
       - title: Blog
