@@ -1,6 +1,6 @@
 ---
-title: About Us
-subtitle: This is the perfect theme for developers, designers and other creatives.
+title: Speech and Mind Lab
+subtitle: We are a group of researchers who study the human mind that understand and produce speech.
 description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
 featured_image: /assets/img/sections/broofoac.jpg
 ---
