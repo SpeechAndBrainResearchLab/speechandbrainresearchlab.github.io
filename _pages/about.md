@@ -1,8 +1,8 @@
 ---
-title: Publications
-subtitle:
-description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
-featured_image: /assets/img/sections/broofoac.jpg
+#title: Peer-reviewed publications
+subtitle: Peer-reviewed publications
+#description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
+#featured_image: /assets/img/sections/broofoac.jpg
 ---
 
 ```components/teams/team-carousel-1.html ```
@@ -10,8 +10,6 @@ featured_image: /assets/img/sections/broofoac.jpg
 12. Song, J., Kim, M., & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
 11. Song, J., Kim, B., Kim, M. & Iverson, P. (2023). The Korean Speech Recognition sen- tences: A large corpus for evaluating semantic context and language experience in speech perception, Journal of Speech, Language, and Hearing Research, 66(9), 3399-3412.
 10. Song, J., Jeon, H-S. & Kiaer, J. (2022). Use of prosodic and lexical cues for disambiguating wh-words in Korean, Interspeech 2022, 81-85.
-2
-Jieun Song, PhD – Curriculum Vitæ – February, 2024
 9. Cho, H.J., Kiaer, J.*, Choi, N. & Song, J. (2022). The role of prosodic and visual infor- mation in disambiguating wh-indeterminates: The case of Korean three-year-olds, Journal of Child Language 49, 326-348.
 8. Song, J., Martin, L. & Iverson, P. (2020). Auditory neural tracking and lexical processing of speech in noise: masker type, spatial location, and language experience, Journal of the Acoustical Society of America, 148(1), 253-264.
 7. Lee, H-Y. & Song, J.* (2019). Evaluating Korean learners’ English rhythm proficiency with measures of sentence stress, Applied Psycholinguistics, 40(6), 1363-1376.
