@@ -36,9 +36,6 @@ menu_settings:
       - title: Landing Page
         url: /
         icon: ni-spaceship text-success    
-      - title: Blog
-        url: /blog
-        icon: ni-books text-primary
     - title: 'Research'
       url: '/blog-list-example'
     # - title: Pricing
