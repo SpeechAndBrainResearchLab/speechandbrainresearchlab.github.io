@@ -1,9 +1,9 @@
----
-title: Blog Example - List 
-subtitle: Perfect for text heavy blog posts
----
+#---
+#title: Blog Example - List 
+#subtitle: Here is a list of research projects our members are corrently conducting.
+#---
 
-### List
+### Research Projects
 You can change your blog style in the `settings.yml` file.
 
 You'll find this inside the `_data` folder – this is where you can set all of the theme options.
