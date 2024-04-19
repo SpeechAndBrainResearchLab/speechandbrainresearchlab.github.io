@@ -3,7 +3,7 @@ title: Peer-reviewed publications
 #subtitle: Perfect for visual posts
 ---
 
-**Song, J.**, **Kim, M.**, & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
+Song, J., Kim, M., & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
 Song, J., Kim, B., Kim, M. & Iverson, P. (2023). The Korean Speech Recognition sen- tences: A large corpus for evaluating semantic context and language experience in speech perception, Journal of Speech, Language, and Hearing Research, 66(9), 3399-3412.
 Song, J., Jeon, H-S. & Kiaer, J. (2022). Use of prosodic and lexical cues for disambiguating wh-words in Korean, Interspeech 2022, 81-85.
 Cho, H.J., Kiaer, J.*, Choi, N. & Song, J. (2022). The role of prosodic and visual infor- mation in disambiguating wh-indeterminates: The case of Korean three-year-olds, Journal of Child Language 49, 326-348.
