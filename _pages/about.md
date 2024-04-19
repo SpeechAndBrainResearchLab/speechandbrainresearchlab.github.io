@@ -1,4 +1,7 @@
-## Peer-reviewed publications
+---
+#title: Blog Example - Wide Grid
+subtitle: Peer-reviewed publications
+---
 
 0. **Song, J.**, **Kim, M.**, & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
 0. **Song, J.**, Kim, B., **Kim, M.** & Iverson, P. (2023). The Korean Speech Recognition sen- tences: A large corpus for evaluating semantic context and language experience in speech perception, Journal of Speech, Language, and Hearing Research, 66(9), 3399-3412.
@@ -13,4 +16,4 @@
 0. **Song, J.**(2013). Variable Schwa Deletion in English: A Corpus Study, Studies in Phonetics, Phonology and Morphology, 19(1), 33-52.
 0. **Song, J.**(2011). The interlanguage speech intelligibility benefit for experienced nonna- tive listeners: perception of English lexical stress produced by Korean native speakers, Proceedings of the 17th International Congress of Phonetic Sciences (ICPhS 2011), Hong Kong.
 
-## Presentations (after 2021)
+### Presentations (after 2021)
