@@ -1,4 +1,7 @@
-## Peer-reviewed publications
+---
+title: Peer-reviewed publications
+#subtitle: Perfect for visual posts
+---
 
 **Song, J.**, **Kim, M.**, & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
 Song, J., Kim, B., Kim, M. & Iverson, P. (2023). The Korean Speech Recognition sen- tences: A large corpus for evaluating semantic context and language experience in speech perception, Journal of Speech, Language, and Hearing Research, 66(9), 3399-3412.
