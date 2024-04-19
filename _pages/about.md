@@ -1,6 +1,6 @@
 ---
-#title: Blog Example - Wide Grid
-subtitle: Peer-reviewed publications
+title: Peer-reviewed publications
+#subtitle: Peer-reviewed publications
 ---
 
 0. **Song, J.**, **Kim, M.**, & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
@@ -8,7 +8,7 @@ subtitle: Peer-reviewed publications
 0. **Song, J.**, Jeon, H-S. & Kiaer, J. (2022). Use of prosodic and lexical cues for disambiguating wh-words in Korean, Interspeech 2022, 81-85.
 0. Cho, H.J., Kiaer, J.*, Choi, N. & **Song, J.** (2022). The role of prosodic and visual infor- mation in disambiguating wh-indeterminates: The case of Korean three-year-olds, Journal of Child Language 49, 326-348.
 0. **Song, J.**, Martin, L. & Iverson, P. (2020). Auditory neural tracking and lexical processing of speech in noise: masker type, spatial location, and language experience, Journal of the Acoustical Society of America, 148(1), 253-264.
-0. Lee, H-Y. & **Song, J.** (2019). Evaluating Korean learners’ English rhythm proficiency with measures of sentence stress, Applied Psycholinguistics, 40(6), 1363-1376.
+0. Lee, H-Y. & **Song, J.\*** (2019). Evaluating Korean learners’ English rhythm proficiency with measures of sentence stress, Applied Psycholinguistics, 40(6), 1363-1376.
 0. **Song, J.**, Martin, L. & Iverson, P. (2019). Native and non-native speech recognition in noise: neural measures of auditory and lexical processing, Proceedings of the 19th Inter- national Congress of Phonetic Sciences (ICPhS 2019), Melbourne.
 0. **Song, J.** & Iverson, P. (2018). Listening effort during speech perception enhances auditory and lexical processing for non-native listeners and accents, Cognition, 179, 163-170.
 0. Lee, G. G., Lee, H-Y., **Song, J.**, Kim, B., Kang, S., Lee, J. & Hwang, H. (2017). Automatic sentence stress feedback for non-native English learners, Computer Speech and Language, 41, 29-42.
