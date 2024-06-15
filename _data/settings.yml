@@ -40,8 +40,8 @@ menu_settings:
       url: '/blog-list-example'
     # - title: Pricing
       # url: /pricing        
-    #- title: 'Members'
-    #    url: '/blog-list-example'
+    - title: 'Members'
+        url: '/blog-list-example_members'
     - title: 'Publications'
       url: '/about'
 #    - title: 'About'
