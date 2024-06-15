@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Argon Jekyll Theme
+  site_title: Speech and Mind Lab
   favicon_image: /assets/img/favicon.png
 
 header_settings:
@@ -50,7 +50,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Argon & Jekyll, together at last.
+  footer_tagline: Speech and Mind Lab, KAIST
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
