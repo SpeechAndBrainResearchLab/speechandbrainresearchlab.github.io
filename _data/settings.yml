@@ -41,7 +41,7 @@ menu_settings:
     # - title: Pricing
       # url: /pricing        
     - title: 'Members'
-      url: '/blog-list-example_members'
+      url: '/features_members'
     - title: 'Publications'
       url: '/about'
 #    - title: 'About'
