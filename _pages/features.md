@@ -30,13 +30,3 @@ This template can be edited and changed in _pages/features.md. Just pick the com
 ---
 ```components/teams/team-carousel-1.html ```
 {% include components/teams/team-carousel-1.html %}
-
-<!--
----
-```components/features/feature-7.html ```
-{% include components/features/feature-6.html %}
-
----
-```components/features/feature-8.html ```
-{% include components/accordion.html %}
--->
