@@ -1,9 +1,8 @@
 ---
-title: Members
-subtitle: Testing out members page.
+title: Features
+subtitle: Everything you need to show off your product features.
 description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
 featured_image: /assets/img/sections/unsplashs.jpg
-permalink: /features_members/
 ---
 
 --- 
@@ -15,7 +14,6 @@ Any component or section present in the [Argon Pro docs](https://demos.creative-
 
 This template can be edited and changed in _pages/features.md. Just pick the components you like, then edit them to display your features.
 
-<!--
 ---
 ```components/features/feature-1.html ```
 {% include components/features/feature-1.html %}
@@ -31,16 +29,15 @@ This template can be edited and changed in _pages/features.md. Just pick the com
 ---
 ```components/features/feature-4.html ```
 {% include components/features/feature-4.html %}
--->
+
 ---
-```components/teams/team-carousel-1 ```
-{% include components/teams/team-carousel-1.html %}
+```components/features/feature-5.html ```
+{% include components/features/feature-5.html %}
 
 ---
 ```components/features/feature-6.html ```
-{% include components/features/feature-7_students.html %}
+{% include components/features/feature-7.html %}
 
-<!--
 ---
 ```components/features/feature-7.html ```
 {% include components/features/feature-6.html %}
@@ -48,4 +45,3 @@ This template can be edited and changed in _pages/features.md. Just pick the com
 ---
 ```components/features/feature-8.html ```
 {% include components/accordion.html %}
--->
