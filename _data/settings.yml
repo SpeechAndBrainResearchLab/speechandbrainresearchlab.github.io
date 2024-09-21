@@ -41,7 +41,7 @@ menu_settings:
     # - title: Pricing
       # url: /pricing        
     - title: 'Members'
-      url: '/features_members'
+      url: '/features'
     - title: 'Publications'
       url: '/about'
 #    - title: 'About'
