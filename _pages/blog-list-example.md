@@ -1,6 +1,6 @@
 ---
 title: Research 
-subtitle: We are members of Speech and Mind Lab at the School of Digital Humanities and Computational Social Sciences and the Graduate School of Culture Technology, KAIST.
+subtitle: Here is a list of research projects our members are corrently conducting.
 ---
 
 ### Research Projects
