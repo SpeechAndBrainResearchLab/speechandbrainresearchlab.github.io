@@ -6,10 +6,10 @@
         <div class="glide__track" data-glide-el="track">
           <ul class="glide__slides">
             <li class="glide__slide">
-              <img src="../assets/img/theme/ASA_kim_2024.jpg">
+              <img src="../assets/img/theme/ASA_kim_2024.png">
             </li>
             <li class="glide__slide">
-              <img src="../assets/img/theme/ASA_song_2023.jpg">
+              <img src="../assets/img/theme/ASA_song_2023.png">
             </li>
           </ul>
         </div>
