@@ -32,9 +32,9 @@ blog_settings:
 menu_settings:
   menu_items:
     - title: 'Home'
-      submenu_items:
-      - title: Home
-        url: /home-sampel.html
+#      submenu_items:
+#      - title: Home
+      url: /home-sample.html
 #        icon: ni-spaceship text-success    
     - title: 'Research'
       url: '/blog-list-example'
