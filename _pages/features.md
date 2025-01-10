@@ -17,7 +17,7 @@ featured_image: /assets/img/sections/unsplashs.jpg
 <!--```components/teams/team-carousel-2.html ```-->
 {% include components/teams/team-carousel-2.html %}
 
---- 
+
 
 #### Former Members
 
