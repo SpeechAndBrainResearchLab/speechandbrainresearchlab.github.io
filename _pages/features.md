@@ -16,7 +16,7 @@ featured_image: /assets/img/sections/unsplashs.jpg
 {% include components/teams/team-carousel-2.html %}
 
 
----
+
 
 <h4>Former Members</h4>
 
