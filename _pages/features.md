@@ -10,6 +10,7 @@ featured_image: /assets/img/sections/unsplashs.jpg
 <!--```components/teams/team-carousel-4.html ```-->
 {% include components/teams/team-carousel-4.html %}
 
+<br>
 
 <!--```components/teams/team-carousel-2.html ```-->
 {% include components/teams/team-carousel-2.html %}
@@ -19,9 +20,7 @@ featured_image: /assets/img/sections/unsplashs.jpg
 
 <h4>Former Members</h4>
 
-<p><strong>Haeun Oh (M.S)</strong></p>
-<p>
-Thesis: Virtual Reality as a Tool for High-Variability Phonetic Training in Realistic Cognitive Load Conditions (Feb. 2025)
+<p><strong>Haeun Oh (M.S)</strong>: Virtual Reality as a Tool for High-Variability Phonetic Training in Realistic Cognitive Load Conditions (Feb. 2025)
 </p>
 
 
