@@ -50,7 +50,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Speech and Mind Lab, KAIST
+  footer_tagline: Speech and Mind Lab
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
