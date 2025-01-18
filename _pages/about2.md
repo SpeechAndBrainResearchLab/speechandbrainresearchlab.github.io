@@ -1,6 +1,8 @@
 ---
-title: Peer-reviewed publications
-#subtitle: Peer-reviewed publications
+title: About Us
+#subtitle: We are members of Speech and Mind Lab at the School of Digital Humanities and Computational Social Sciences and the Graduate School of Culture Technology, KAIST.
+description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
+featured_image: /assets/img/sections/sound.png
 ---
 
 0. **Song, J.**, **Kim, M.**, & Park, J. (2023). Acoustic correlates of perceived personality from Korean utterances in a formal communicative setting, PLoS ONE, 18(10), 1-20.
