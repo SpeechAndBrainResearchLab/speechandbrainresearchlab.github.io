@@ -7,10 +7,8 @@
 {% endif %}
 
 {% if site.data.settings.blog_settings.theme == "basic" %}
-    {% comment %}
     {% if site.data.settings.home_settings.theme == "landing" %}
-        {% include components/blog/basicLanding.html %}
-    {% endcomment %}      
+        {% include components/blog/basicLanding.html %}  
     {% else %}
         {% include components/blog/basic.html %}  
     {% endif %}
