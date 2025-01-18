@@ -34,7 +34,7 @@ menu_settings:
     - title: 'Home'
 #      submenu_items:
 #      - title: Home
-      url: '/home-sample.html'
+      url: /home-sample.html
 #        icon: ni-spaceship text-success    
     - title: 'Research'
       url: '/blog-list-example'
