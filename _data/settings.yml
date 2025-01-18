@@ -52,7 +52,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Speech and Mind Lab
+  footer_tagline: Speech and Mind Lab, College of Liberal Arts and Convergence Science, KAIST
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
