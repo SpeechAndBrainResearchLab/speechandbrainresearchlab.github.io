@@ -31,11 +31,12 @@ blog_settings:
   # 3. Add a color of the icon - text-primary, text-success, text-info, text-danger, text-warning and text-default all work! 
 menu_settings:
   menu_items:
-    - title: 'Home'
-      submenu_items:
-      - title: Home
-        url: /home-sample.html
+#    - title: 'Home'
+#      submenu_items:
+#      - title: Home
+#        url: /home-sample.html
 #        icon: ni-spaceship text-success    
+    - title: 'About'
     - title: 'Research'
       url: '/blog-list-example'
     # - title: Pricing
