@@ -5,7 +5,7 @@ description: Use the Argon Jekyll theme to build a landing page, blog or complet
 featured_image: /assets/img/sections/sound.png
 ---
 
-### Any title if needed
+### Welcome to the Speech and Mind Lab!
 
-Introduction paragraph for our lab
+Our lab investigates the human mind that produce, perceive and process language. We integrate insights from linguistics, cognitive science, psychology and artificial intelligence with an aim to deepen our understanding of speech communication.
 
