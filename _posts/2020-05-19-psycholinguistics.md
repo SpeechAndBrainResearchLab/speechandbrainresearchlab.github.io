@@ -1,7 +1,7 @@
 ---
 title: Psycholinguistics
 #date: 2020-05-19 00:00:00
-description: blah blah - This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: How does the human mind process langauge?
 featured_image: /assets/img/pages/listening.jpg
 #author: Jane
 ---
