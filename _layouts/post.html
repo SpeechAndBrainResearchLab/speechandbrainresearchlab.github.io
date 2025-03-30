@@ -10,15 +10,21 @@ layout: default
       </div>
     </div>
     <div class="row">
-      <div class="floating-box bg-default">
+      <div class="floating-box bg-default"
+           style="width: 600px; height: 200px; margin: 0 auto; background-color: #343a40;
+            display: flex; justify-content: center; align-items: center; text-align: center;
+            padding: 20px; box-sizing: border-box; overflow: hidden;
+            color: white; word-break: break-word;">
         <div class="box text-center">
           <div class="icon icon-shape bg-primary icon-xl rounded-circle text-white">
             <i class="ni ni-book-bookmark"></i>
           </div>
         </div>
+        <!--
         <blockquote class="blockquote text-center mt-2">
           <p class="mb-0 text-white">Posted {{ page.date | date_to_long_string }}</p>
         </blockquote>
+        -->
         <h2 class="lead text-white pl-5 pr-5 pb-5 text-center">{{page.description}}</h2>
       </div>
     </div>
@@ -29,7 +35,9 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-8 ml-auto mr-auto">
+        <!--
         <h6 class="category">{{ page.date | date_to_long_string }}</h6>
+      -->
         <h3 class="title">{{ page.title }}</h3>
         <article class="blog-post">
           {{ page.content }}
