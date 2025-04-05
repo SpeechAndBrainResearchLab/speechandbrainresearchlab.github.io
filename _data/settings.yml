@@ -37,7 +37,7 @@ menu_settings:
 #        url: /home-sample.html
 #        icon: ni-spaceship text-success    
     - title: 'About'
-      url: '/about2'
+      url: '/about-us'
     - title: 'Research'
       url: '/blog-list-example'
     # - title: Pricing
