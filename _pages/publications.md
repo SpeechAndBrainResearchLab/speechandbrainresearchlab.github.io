@@ -18,10 +18,10 @@ title: Peer-reviewed publications
 0. **Song, J.** (2011). The interlanguage speech intelligibility benefit for experienced nonna- tive listeners: perception of English lexical stress produced by Korean native speakers, Proceedings of the 17th International Congress of Phonetic Sciences (ICPhS 2011), Hong Kong.
 
 ### Presentations (after 2021)
-0. Jeong, M., Oh, H., Park, J., & Song, J. (2024). Listening effort under different rates of speech, The 186th meeting of the Acoustical Society of America (ASA), Ottawa.
-0. Kim, M., Park, J., Jeong, M., & Song, J. (2024). Personality Perception in Synthetic vs. Natural Speech: The Effects of Voice Quality and Prosody, The 186th meeting of the Acoustical Society of America (ASA), Ottawa.
-0. Evans, B. G., Shin, R., Song, J. & Lo, J. J. H. (2024). A community within a community: Talk and identity in the North Korean refugee diaspora, Colloquium of the British Association of Academic Phoneticians 2024, Cardiff.
-0. Jeong, M., Oh, H., Park, J. & Song, J. (2023). 발화속도에 따른 듣기 노력에 대한 연구 [‘Listening effort under different rates of speech’], The 2023 Winter Conference of the Linguistic Society of Korea, Seoul.
-0. Kim, M., Park, J., Jeong, M., Kang, M. & Song, J. (2023). What determines personality impressions of synthetic and natural speech? - an acoustical investigation, Speech Prosody and Beyond (SPaB) 2023, Seoul.
-0. Song, J., Kim, M. & Park, J. (2023). Judgements of a customer service agent’s personality based on acoustic properties of their speech, The 184th meeting of the Acoustical Society of America (ASA), Chicago.
-0. Song, J. & Iverson, P. (2021). Investigating listening effort using neural speech tracking and alpha oscillations: the effects of acoustic distortion and language of materials, Society for the Neurobiology of Language (SNL) 2021.
+0. **Jeong, M.**, **Oh, H.**, Park, J., & **Song, J.** (2024). Listening effort under different rates of speech, The 186th meeting of the Acoustical Society of America (ASA), Ottawa.
+0. **Kim, M.**, Park, J., **Jeong, M.**, & **Song, J**. (2024). Personality Perception in Synthetic vs. Natural Speech: The Effects of Voice Quality and Prosody, The 186th meeting of the Acoustical Society of America (ASA), Ottawa.
+0. Evans, B. G., Shin, R., **Song, J.** & Lo, J. J. H. (2024). A community within a community: Talk and identity in the North Korean refugee diaspora, Colloquium of the British Association of Academic Phoneticians 2024, Cardiff.
+0. **Jeong, M.**, **Oh, H.**, Park, J. & **Song, J.** (2023). 발화속도에 따른 듣기 노력에 대한 연구 [‘Listening effort under different rates of speech’], The 2023 Winter Conference of the Linguistic Society of Korea, Seoul.
+0. **Kim, M.**, Park, J., **Jeong, M.**, Kang, M. & **Song, J.** (2023). What determines personality impressions of synthetic and natural speech? - an acoustical investigation, Speech Prosody and Beyond (SPaB) 2023, Seoul.
+0. **Song, J.**, **Kim, M.** & Park, J. (2023). Judgements of a customer service agent’s personality based on acoustic properties of their speech, The 184th meeting of the Acoustical Society of America (ASA), Chicago.
+0. **Song, J.** & Iverson, P. (2021). Investigating listening effort using neural speech tracking and alpha oscillations: the effects of acoustic distortion and language of materials, Society for the Neurobiology of Language (SNL) 2021.
