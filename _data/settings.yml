@@ -45,7 +45,7 @@ menu_settings:
     - title: 'Members'
       url: '/features'
     - title: 'Publications'
-      url: '/about'
+      url: '/publications'
 #    - title: 'About'
 #      url: '/about'
     - title: 'Contact'
