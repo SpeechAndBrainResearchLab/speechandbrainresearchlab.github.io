@@ -12,4 +12,3 @@ Speech perception is flexible in that perceptual processes of individuals can ad
 Recent work from our lab, conducted by Master’s student Haeun Oh, investigated the effects of HVPT in high cognitive load conditions using VR. She created a realistic learning environment by developing a VR driving game where learners drive and receive phonetic training simultaneously in the presence of environmental noise. She found that this training helped learners to develop strategies for coping with cognitive challenges in difficult listening conditions (e.g., ignoring background speech). We’re interested in continuing research on phonetic training and second-language speech learning in the future.
 
 
-{% include EEG-page.md %}

@@ -1,9 +1,9 @@
 ---
-title: Research 
+title: Research Area
 subtitle: Here is a list of research projects our members are currently conducting.
 ---
 
-### Research Area
+
 
 {% comment %}
 You can change your blog style in the `settings.yml` file.
