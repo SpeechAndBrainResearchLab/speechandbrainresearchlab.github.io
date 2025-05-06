@@ -43,7 +43,7 @@ menu_settings:
     # - title: Pricing
       # url: /pricing        
     - title: 'Members'
-      url: '/features'
+      url: '/members'
     - title: 'Publications'
       url: '/publications'
 #    - title: 'About'
