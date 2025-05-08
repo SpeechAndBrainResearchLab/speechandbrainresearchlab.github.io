@@ -20,7 +20,7 @@
         -->
         </div>
       </div>
-      <div class="col-md-6 d-flex justify-content-end align-items-center">
+      <div class="col-md-6 d-flex flex-column align-items-end">
         <ul class="nav nav-footer mr-3 mb-0">
           {% for item in site.data.settings.menu_settings.menu_items %}
           {% if item.submenu_items %}
@@ -35,7 +35,7 @@
           {% endfor %}
         </ul>
         <a href="https://www.kaist.ac.kr" target="_blank">
-          <img src="{{ '/assets/img/kaist.jpg' | relative_url }}" alt="KAIST" style="height: 28px; margin-left: 24px">
+          <img src="{{ '/assets/img/kaist.jpg' | relative_url }}" alt="KAIST" style="height: 28px;">
         </a>
       </div>
     </div>
