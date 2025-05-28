@@ -17,7 +17,7 @@ title: Peer-reviewed publications
 0. **Song, J.** (2013). Variable Schwa Deletion in English: A Corpus Study, Studies in Phonetics, Phonology and Morphology, 19(1), 33-52.
 0. **Song, J.** (2011). The interlanguage speech intelligibility benefit for experienced nonna- tive listeners: perception of English lexical stress produced by Korean native speakers, Proceedings of the 17th International Congress of Phonetic Sciences (ICPhS 2011), Hong Kong.
 
-### Presentations (after 2021)
+### Conference presentations (after 2021)
 0. **Jeong, M.**, **Oh, H.**, Park, J., & **Song, J.** (2024). Listening effort under different rates of speech, The 186th meeting of the Acoustical Society of America (ASA), Ottawa.
 0. **Kim, M.**, Park, J., **Jeong, M.**, & **Song, J**. (2024). Personality Perception in Synthetic vs. Natural Speech: The Effects of Voice Quality and Prosody, The 186th meeting of the Acoustical Society of America (ASA), Ottawa.
 0. Evans, B. G., Shin, R., **Song, J.** & Lo, J. J. H. (2024). A community within a community: Talk and identity in the North Korean refugee diaspora, Colloquium of the British Association of Academic Phoneticians 2024, Cardiff.
